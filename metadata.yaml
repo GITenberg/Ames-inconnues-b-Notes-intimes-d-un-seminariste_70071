@@ -1,0 +1,38 @@
+_repo: Ames-inconnues-b-Notes-intimes-d-un-seminariste_70071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Brète, Jean de
+    aliases:
+    - Cherbonelle, Alice
+    - La Brete, Jean de
+    - Brète, Jean de La
+    - De La Brète, Jean
+    - Brète, Jean de la
+    birthdate: 1854
+    deathdate: 1945
+    gutenberg_agent_id: '25891'
+    url: http://www.gutenberg.org/2009/agents/25891
+    wikipedia: https://fr.wikipedia.org/wiki/Jean_de_La_Br%C3%A8te
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70071'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065462726
+pgterms:marc905: 20211111005006labrte
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: René Galluvot (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bCalmann Lévy, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merlet, Auguste, 1887-1909'
+- !lcsh 'Religious biography'
+- !lcc 'BX'
+- GITenberg
+title: 'Ames inconnues : $b Notes intimes d''un séminariste'
+url: http://www.gutenberg.org/ebooks/70071

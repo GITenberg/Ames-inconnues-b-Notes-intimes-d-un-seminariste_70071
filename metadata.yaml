@@ -1,5 +1,8 @@
 _repo: Ames-inconnues-b-Notes-intimes-d-un-seminariste_70071
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70071-h/images/cover.jpg
 creator:
   author:
     agent_name: La Brète, Jean de
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25891
     wikipedia: https://fr.wikipedia.org/wiki/Jean_de_La_Br%C3%A8te
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70071#Ames-inconnues-b-Notes-intimes-d-un-seminariste
 gutenberg_issued: '2023-02-19'
 identifiers:
   gutenberg: '70071'
